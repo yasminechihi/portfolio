@@ -1,0 +1,99 @@
+
+.navbar ul {
+    padding: 0 px;
+    margin: 0 px;
+    list-style-type: none;
+    text-align: center;
+}
+.navbar li {
+    display: inline-block;
+}
+.navbar a {
+    color: white ;
+    text-decoration: none;
+    display: block;
+    padding: 15px;
+}
+.navbar a:hover {
+    color: purple;
+}
+#b{
+    background-color: violet;
+    color:purple;
+}
+
+.intro {
+    float: right;
+    margin-top: 15%;
+    color: white;
+}
+.intro h1 {
+    text-align: right;
+    font-size: 50px;
+    margin-bottom: 20px;
+    margin-right: 40px;
+}
+.intro p {
+    margin-right: 2%;
+    line-height: 22px;
+    font-size: 15px ;
+}
+#a {
+    background-image: url(image.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#c {
+    height: 70%;
+    width: 90%;
+    float:left;
+    margin-left:10%;
+}
+#d {
+    background-color: violet;
+}
+#t1{
+    margin-top: 5%;
+    float: left;
+}
+#t2{
+    float: right;
+}
+#abc,#y {
+    color: purple;
+    font-size: 50px;
+}
+#abcd {
+    color: black;
+    font-size: 20px;
+}
+#cc,#x {
+    font-size: 25px;
+    color: black;
+}
+#n {
+    color: black;
+    font-size: 17px;
+}
+#su {
+    width: 30%;
+    height: 30%;
+    font-size: 20px;
+    color: white;
+    border-radius: 20px;
+    background-color: purple;
+    border-color: purple;
+}
+#su:hover {
+    color: black;
+    background-color: violet;
+    border-color: black;
+}
+#m {
+    border-radius: 20px;
+}
+#z {
+    height: 30px;
+}
